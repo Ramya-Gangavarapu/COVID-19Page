@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Background {
+    background-color: white;
+    background-size: cover;
+    height: 98vh;
+    width: 35vw;
+}
+
+.SCard p {
+    font-family: Roboto;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.SCard button {
+    margin-left: 13px;
+    border-radius: 8px;
+}
+
+.I1 {
+    padding: 5px;
+    margin: 5px;
+    height: 18vh;
+}
+
+.Card2 {
+    background-color: #0967d219;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.I2 {
+    padding: 10px;
+    margin: 10px;
+    height: 10vh;
+}
+
+.head h1 {
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    color: #323f4b;
+}
+
+.head p {
+    font-size: 15px;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 20px;
+    color: #707070;
+}
+
+.heading h3 {
+    padding: 5px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.box1 {
+    background-color: #3ebd93;
+    padding: 15px;
+    margin: 5px;
+    margin-left: 20px;
+    color: white;
+    font-family: Roboto;
+    border-radius: 10px;
+}
+
+.box2 {
+    background-color: #e668a7;
+    padding: 15px;
+    margin: 5px;
+    color: white;
+    font-family: Roboto;
+    border-radius: 10px;
+}
+
+.box3 {
+    background-color: #a368fc;
+    padding: 15px;
+    margin: 5px;
+    color: white;
+    font-family: Roboto;
+    border-radius: 10px;
+}
+
+.box1 p {
+    padding: 5px;
+    font-size: 13px;
+}
+
+.box2 p {
+    padding: 5px;
+    font-size: 13px;
+}
+
+.box3 p {
+    padding: 5px;
+    font-size: 13px;
+}
+
+.section h3 {
+    padding: 5px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.I6 {
+    padding: 10px;
+    margin: 10px;
+    height: 10vh;
+}
+
+.card3 {
+    background-color: #e12d3919;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.card3 h1 {
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    color: #323f4b;
+}
+
+.card3 p {
+    font-size: 15px;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 20px;
+    color: #707070;
+}
+
+.btn {
+    margin-left: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
